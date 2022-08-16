@@ -1,5 +1,5 @@
-### concepts.hpp
-Concept equivalents of every boolean in <type_traits>. Try it out at [Godbolt](https://godbolt.org/z/aTT9re79r).
+### Concepts.hpp
+Concept equivalents of every boolean in `<type_traits>`. Try it out with [Godbolt](https://godbolt.org/z/aTT9re79r).
 
 ### Usage
 ```cpp
@@ -23,4 +23,4 @@ int main(int argc, char** argv)
 
 ### Notes
 - Equivalent functionality will likely be added to the standard in the near future. Until then, you can use this.
-- See the related question in [Stack Overflow](https://stackoverflow.com/questions/58067259/will-there-be-a-concept-for-arithmetic-types-in-c-standard-library).
+- See the related question on [Stack Overflow](https://stackoverflow.com/questions/58067259/will-there-be-a-concept-for-arithmetic-types-in-c-standard-library).
